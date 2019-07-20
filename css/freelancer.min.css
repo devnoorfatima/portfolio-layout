@@ -89,12 +89,11 @@ hr {
     overflow: visible
 }
 
-header{
+header {
     background: url(../4.jpg) no-repeat;
     background-size: cover;
     height: 90vh;
 }
-
 
 h1,
 h2,
