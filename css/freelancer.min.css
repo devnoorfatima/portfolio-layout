@@ -133,7 +133,9 @@ ul {
     margin-top: 0;
     margin-bottom: 1rem
 }
-
+.align{
+    margin: 0 auto;
+}
 ol ol,
 ol ul,
 ul ol,
@@ -11984,7 +11986,7 @@ a.text-dark:hover {
 }
 
 .floating-label-form-group-with-focus label {
-    color: rgb(240, 204, 240);
+    color: rgb(87, 26, 87);
 }
 
 form .row:first-child .floating-label-form-group {
@@ -11994,10 +11996,10 @@ form .row:first-child .floating-label-form-group {
 .footer {
     padding-top: 5rem;
     padding-bottom: 5rem;
-    background-color: #2c3e50;
+    background-color: #4f236d;
     color: #fff
 }
 
 .copyright {
-    background-color: #1a252f
+    background-color: rgb(68, 14, 68);
 }
