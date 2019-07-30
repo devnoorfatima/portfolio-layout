@@ -184,13 +184,13 @@ sup {
 }
 
 a {
-    color: #1abc9c;
+    color: #9741b1;
     text-decoration: none;
     background-color: transparent
 }
 
 a:hover {
-    color: #117964;
+    color: #3d194e;
     text-decoration: underline
 }
 
@@ -11794,7 +11794,7 @@ a.text-dark:hover {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:hover {
-    color: rgb(209, 122, 209);
+    color: rgb(115, 72, 146);
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link:active,
@@ -11803,7 +11803,7 @@ a.text-dark:hover {
 }
 
 #mainNav .navbar-nav li.nav-item a.nav-link.active {
-    color: rgb(209, 122, 209);
+    color: rgb(115, 72, 146);
 }
 
 #mainNav .navbar-toggler {
@@ -11831,14 +11831,14 @@ a.text-dark:hover {
 
     #mainNav .navbar-nav>li.nav-item>a.nav-link.active {
         color: #fff;
-        background: rgb(209, 122, 209);
+        background: rgb(115, 72, 146);
     }
 
     #mainNav .navbar-nav>li.nav-item>a.nav-link.active:active,
     #mainNav .navbar-nav>li.nav-item>a.nav-link.active:focus,
     #mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover {
         color: #fff;
-        background: rgb(209, 122, 209);
+        background: rgb(115, 72, 146);
     }
 
     #mainNav.navbar-shrink {
@@ -11986,7 +11986,7 @@ a.text-dark:hover {
 }
 
 .floating-label-form-group-with-focus label {
-    color: rgb(87, 26, 87);
+    color: rgb(63, 26, 63);
 }
 
 form .row:first-child .floating-label-form-group {
